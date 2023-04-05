@@ -1,0 +1,120 @@
+{
+  "roots": [
+    {
+      "key": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "jk972v7re15ro8669uoongv",
+          "title": "Units",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "ltqvnfzutqtid0en8ryauoq",
+              "title": "Unit1",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "se4ybpu18qsh79vegf6o6c4",
+                  "title": "Asymptotes",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "j82d41g3x6k1opg4ad7nt9v",
+                  "title": "Continuity",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "bf2w7h3qes723wx4qasy4e6",
+                  "title": "HardLimits",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "x4o2iac9dag4h8ovmif19p7",
+                  "title": "IVT",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "jpqk2k84zueot9oz2bcsd0d",
+                  "title": "LimitsOverview",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "fs1g9j5ucrabgakw7xv1hx7",
+                  "title": "PropertiesOfLimits",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "fx5gdvmvcmu542bpfvavehq",
+                  "title": "SolvingLimitsAnalytically",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "nt4ulxfwz5jdgq710ghuov4",
+                  "title": "SqueezeTheorem",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "wn8PE1RhG0znK1alrGFYv": null,
+    "jk972v7re15ro8669uoongv": "wn8PE1RhG0znK1alrGFYv",
+    "ltqvnfzutqtid0en8ryauoq": "jk972v7re15ro8669uoongv",
+    "nt4ulxfwz5jdgq710ghuov4": "ltqvnfzutqtid0en8ryauoq",
+    "fx5gdvmvcmu542bpfvavehq": "ltqvnfzutqtid0en8ryauoq",
+    "fs1g9j5ucrabgakw7xv1hx7": "ltqvnfzutqtid0en8ryauoq",
+    "jpqk2k84zueot9oz2bcsd0d": "ltqvnfzutqtid0en8ryauoq",
+    "x4o2iac9dag4h8ovmif19p7": "ltqvnfzutqtid0en8ryauoq",
+    "bf2w7h3qes723wx4qasy4e6": "ltqvnfzutqtid0en8ryauoq",
+    "j82d41g3x6k1opg4ad7nt9v": "ltqvnfzutqtid0en8ryauoq",
+    "se4ybpu18qsh79vegf6o6c4": "ltqvnfzutqtid0en8ryauoq"
+  }
+}
